@@ -1,3 +1,18 @@
+Check at https://RanDomNoGntr.ccbp.tech
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 In this project, let's build a **Random Number Generator** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
